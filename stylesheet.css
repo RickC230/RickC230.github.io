@@ -2,6 +2,10 @@ h1 {
   font-size: 100px;
   color: red;
 }
+.row {
+  height: 500px;
+  width: 800px;
+}
 .column {
   float: left;
   max-width: 50%;
